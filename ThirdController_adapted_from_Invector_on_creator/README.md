@@ -15,13 +15,13 @@ Invector（一个强大的角色控制器），创建人物角色的方法在导
 - **新角色创建**：拖动 FBX 文件到 `Charactor Creator` 组件下的 `FBX Object` 处，点击 `Create Character` 按钮
 - **活动角色管理**：拖动 Characters 下的角色到 `Active Character` 处，点击 `Set Active Char` 按钮
 
-![Inspector 截图](Resources/Images/Inspector.png)
+![Inspector 截图](../Imgs/Inspector.png)
 
 除此之外，本项目清除了 Invector 复杂的组件修饰等，可直接作为项目的基础进行开发。
 
 附上角色控制的按键使用：WSAD 控制前后左右移动，同时按下 Shift 可加速移动，空格键控制跳跃。
 
-![Game](Resources/Images/Game.png)
+![Game](../Imgs/Game.png)
 
 ## 致谢
 
