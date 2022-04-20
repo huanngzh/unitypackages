@@ -9,3 +9,8 @@
 
 3. [BVHParser](3_BVHParser/)：Unity 使用 bvh 动捕数据驱动骨骼动画
 
+4. [UnityBaiduVoiceAPI](4_UnityBaiduVoiceAPI/)：Unity 借助百度智能云实现语音识别和语音合成功能
+
+## License
+
+本作品采用 [MIT](LICENSE) 进行许可。
