@@ -11,6 +11,8 @@
 
 4. [UnityBaiduVoiceAPI](4_UnityBaiduVoiceAPI/)：Unity 借助百度智能云实现语音识别和语音合成功能
 
+5. [AvatarVisualization](5_AvatarVisualization/)：在 Unity 中可视化人物模型的骨架信息
+
 ## License
 
 本作品采用 [MIT](LICENSE) 进行许可。
